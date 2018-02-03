@@ -30,7 +30,7 @@ https://dev.mysql.com/doc/refman/5.7/en/osx-installation.html
 
 https://dev.mysql.com/doc/refman/5.7/en/osx-installation.html
 
-sudo apt-get install mysql-server
-sudo apt-get install libmysqlclient-dev
+sudo apt-get install mysql-server libmysqlclient-dev
+
 
 sudo pip3 install mysqlclient
